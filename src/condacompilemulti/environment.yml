@@ -1,0 +1,9 @@
+
+conda-forge::flake8
+conda-forge::ipympl
+conda-forge::nbsphinx
+conda-forge::pandoc
+conda-forge::pooch
+conda-forge::pythreejs
+conda-forge::python-graphviz
+conda-forge::yapf
